@@ -12,7 +12,6 @@
         name="Lina Lorenz"
         phone-number="42421 70121"
         email-address="lina@localhost.com"
-        is-favorite="0"
       >
       </friend-contact>
     </ul>
